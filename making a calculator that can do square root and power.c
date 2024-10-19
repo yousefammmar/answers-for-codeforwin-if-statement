@@ -1,4 +1,4 @@
-//making a calculater that can do square root and power
+//making a calculator that can do square root and power
 #include <stdio.h>
 #include <math.h>
 int main(){
